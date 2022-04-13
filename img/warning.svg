@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <clipPath id="clip-path">
+      <use id="warning" transform="translate(347 431)" xlink:href="#image"/>
+    </clipPath>
+    <image id="image" width="52" height="52" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA0CAYAAADFeBvrAAAABHNCSVQICAgIfAhkiAAAA9NJREFUaEPdml2oTlkYx+eMzAXGVzIX4mIUE2bMuVEmcnwlmVIGKeTUcGrMxRxXigtcUK5wwZSPHDEljFIkYRA5JcUwJqa4IDUjGcbHBc3w+5321j68r/e871nrNNaqX3uf9+z9rPXfz1rPs9bau66p6eIHgUoddkbDBPgShsOn0At6ZnU85fgEbsENuAxn4Fd4GaIddQEEjaUhC2EODKixUfe5bz/shtYabbTdVqugD7n3G1iReSNvwz+cnIXzcB3+gEfwOLvgY459YBh8Bl/BeOhdEKHX1sHP8F+14moRNI5KNsMXWWXPsqe7h+Mp+LfKRnTj+omwAPRyj+z+Kxy/h3PV2KtGkONgAyzJKnjIcRNsBM9DlL4YaYYfwHPLNlgGjr+KpaOCRmJpH4wAB+8OWA4PKtZQ2wX9uW09fAsGm99hLlyrZK4jgiZj5CDYz++CXeN0JcOB/t+AHbvyIHB8zoKT77JdSdBMbjb6dM9E2MeNSF1ZjJy2QXEvwDYcKteAdwnSM0czMQc4zofnXamkUNdHnP8EszNR08t5qpwgx4yh126mmHlQbfQKrd1ouDcTZfcz5L81pkoJMppdAAPAaZgWwDOGYEse6msVq6eOQQMYKMZAu+hXStBWLjI0GwCcwoQYM/m0xojV2eKYMvkaKAzpTUWDbwoyaZrpbcCkzEOdbYD3hxSkPT30C/iAnGm8Tr5FQU5nLoHdYnvmpRBiYgjSpt5ZDHbnemibJhUFGQ5Nnmb9oRAyaYb2kG03+d4EZxQmXUN7O0F6xzGzBlaHck1mJ4YgTdvOVeCY0kuvBbkEMEw70XSwhZqb5c8lliC9Y/ByQmsYb8273Bb++A52QWNg72guliBtt8Ai+BGWKshIcQ8Mh1PhxHsmaArtPQ6ml4EKctw4fsy+DrQYM4KYHnIGYQBzVlOvINcermmOwNcRvBO7y2n/MMyAZgXt5KQRVoJL3xglpodsr1sBa6FFQUY3o5x7BK57YpTYglwnuQfRFuX+5OQT+Bx+i6EGm7EFjaKOq/CXgtwnc4Y9BO68p4IG0+7b8FRB+dPrxw+hE2r+fGJ7yAT7t5UlKSi5LpdcUEgubCeXWJOb+iQ3Oe2K5UOobaxSef+t5YMXxV7gRZqAtJltgXYLPH+MvQSPJajsEtwKY26SxBK0GsMlN0msMOY2VowxVHEbK7mNRr2U1FZw3s9jbNaH7HJVbdYrKsbrlFBBoabXKVae1Auv/Gkm9UoyF5XUS+Oip5J5rZ+LSurDi1xUUp/GFMNuMh8vFUUl9XnZm0kyiQ8AS2X+/8Unmq8AZUSC5PCZO+4AAAAASUVORK5CYII="/>
+  </defs>
+  <g id="warning-2" data-name="warning" transform="translate(-347 -431)">
+    <use id="warning-3" data-name="warning" transform="translate(347 431)" xlink:href="#image"/>
+    <g id="Clip" clip-path="url(#clip-path)">
+      <rect id="Прямоугольник_скругл._углы_5" data-name="Прямоугольник, скругл. углы 5" width="660" height="73" rx="0.5" transform="translate(300 152)" fill="#b1b1b1" opacity="0.071"/>
+    </g>
+  </g>
+</svg>
